@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Evgeniyme/Evgeniyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Yevhenii Vasiutenko 🇺🇦
 
 _System administrator at Transporeon B.V., Lisbon_ <br>
